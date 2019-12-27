@@ -1,4 +1,5 @@
-import * as blessed from 'blessed';
+// @ts-ignore
+import * as blessed from 'neo-blessed';
 import { Ketting, Resource } from 'ketting';
 
 let currentResource: Resource;

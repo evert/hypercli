@@ -30,6 +30,7 @@
   },
   "dependencies": {
     "blessed": "^0.1.81",
-    "ketting": "^5.0.1"
+    "ketting": "^5.0.1",
+    "neo-blessed": "^0.2.0"
   }
 }
