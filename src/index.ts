@@ -37,7 +37,6 @@ async function navigate(uri: string) {
 function initBoxes() {
 
   screen = blessed.screen({
-    smartCSR: true
   });
 
   screen.title = 'HyperCLI';
