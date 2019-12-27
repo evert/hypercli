@@ -48,10 +48,11 @@ function initBoxes() {
     width: '100%',
     top: 0,
     height: 1,
+    /*
     style: {
       bg: 'green',
       fg: 'white',
-    },
+    },*/
     align: 'center',
   });
 
@@ -62,10 +63,11 @@ function initBoxes() {
     width: '100%',
     bottom: 0,
     height: 1,
+    /*
     style: {
       bg: 'green',
       fg: 'white',
-    }
+    }*/
   });
 
   screen.append(uriBox);
@@ -76,10 +78,12 @@ function initBoxes() {
     left: 0,
     right: 0,
 
+    /*
     style: {
       fg: 'green',
       bg: '#000',
     },
+    */
 
   });
 
